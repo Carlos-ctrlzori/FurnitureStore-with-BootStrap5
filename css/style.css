@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.black{
+     color: black;
+     font-size: 45px;
+}
+
+.title-tamb{
+    font-size: 45px; 
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#black{
+    color: black;
+}
+
+.navbar-top-border{
+    border-top: 1px solid #00000017;
+}
+
+.navbar-bottom-border{
+    border-bottom: 1px solid #00000017;
+}
+
+.bg-cover {
+    background-image: url('../images/main.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #00000017;
+    height: 100vh;
+}
+
+figcaption{
+    text-align: center;
+    margin-top: 20px;
+    font-family:monospace;
+    font-size: 25px;
+}
+
+#about-us{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.about-usw{
+    color: white;
+}
+
+.btn-cart{
+    background-color: greenyellow;
+}
+
+.btn-cart:hover{
+    background-color: green;
+}
+
+.h5-footer { 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
